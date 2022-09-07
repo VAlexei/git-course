@@ -1,1 +1,1 @@
-crash course for git
+crash course for gitclear
